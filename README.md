@@ -5,6 +5,10 @@ Turns your OneDrive or Google Drive account into a personal streaming server. In
 
 # NOTES
 
+Check out: https://videojs.com/city
+
+videojs is a html5 video player that you can customize to your liking.
+
 Check out the following:
 https://www.reddit.com/r/node/comments/euq34a/a_simple_1337x_yts_and_nyaasi_torrent_scraper_api/
 
